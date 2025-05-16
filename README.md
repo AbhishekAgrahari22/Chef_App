@@ -2,7 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+![App Preview](screenshots/app_preview.png)
+
+## ✨ Features
+
+- Beautiful UI for chef-based food services
+- Authentication: register, login, OTP, MPIN
+- Event booking and chef selection
+- Responsive design (Android, iOS, Web)
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
